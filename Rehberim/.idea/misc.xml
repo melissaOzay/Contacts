@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.109" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/drawable/ic_launcherr_background.xml" value="0.1" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/drawable/ic_launcherr_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/drawable/people.xml" value="0.1535" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/layout/activity_record.xml" value="0.1" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/layout/activity_record_activityy.xml" value="0.25" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/layout/activity_recyler_view.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/layout/record.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/menu/main_menu.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/mipmap-anydpi-v26/ic_launcherr.xml" value="0.1" />
+        <entry key="..\:/Users/Melisa/Desktop/Rehberim/app/src/main/res/mipmap-anydpi-v26/ic_launcherr_round.xml" value="0.115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
